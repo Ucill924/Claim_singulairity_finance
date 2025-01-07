@@ -41,7 +41,7 @@ Privatekey3
 
 ```bash
 API_KEY=Apikey_From_https://2captcha.com/
-PROXY=https://usernama:pwd@username.io:port
+PROXY=https://username:pwd@host:port
 ```
 
 ### Step 5: Run bot
