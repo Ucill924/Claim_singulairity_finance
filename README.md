@@ -29,7 +29,7 @@ cd Claim_singulairity_finance_faucet
 ```bash
 pip install -r requirements.txt
 ```
-#step-3-prepare-your-private-keys On file PK.txt example :
+### Step 3 :prepare your privatekeys On file PK.txt like this :
 
 ```bash
 Privatekey1
@@ -37,14 +37,14 @@ Privatekey3
 Privatekey3
 ```
 
-Step 4: Configure API Key and Proxy On .env
+### Step 4: Configure API Key and Proxy On .env
 
 ```bash
 API_KEY=Apikey_From_https://2captcha.com/
 PROXY=https://usernama:pwd@username.io:port
 ```
 
-Run bot
+### Step 5: Run bot
 ```bash
 python main.py
 ```
